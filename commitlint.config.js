@@ -39,7 +39,7 @@ module.exports = {
     "subject-max-length": [
       2,
       "always",
-      60
+      200
     ],
   },
 };
