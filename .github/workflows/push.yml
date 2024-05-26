@@ -14,7 +14,7 @@ jobs:
         if: github.actor == 'dependabot[bot]'
         with:
           target: minor
-          github-token: ${{ secrets.GH_TOKEN_WRITE }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
   commit-lint:
     runs-on: ubuntu-latest
