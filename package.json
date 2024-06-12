@@ -25,7 +25,7 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "eslint": "^9",
-    "eslint-config-next": "14.2.3",
+    "eslint-config-next": "14.2.4",
     "semantic-release": "^23.1.1"
   }
 }
